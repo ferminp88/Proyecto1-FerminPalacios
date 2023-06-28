@@ -1,0 +1,26 @@
+[
+	{
+		"id": 2,
+		"fruta": "manzanita",
+		"color": "roja",
+		"tamaño": "grande"
+	},
+	{
+		"id": 3,
+		"fruta": "manzazna",
+		"color": "verde",
+		"tamaño": "sdcgsad"
+	},
+	{
+		"id": 4,
+		"fruta": "Uva",
+		"color": "Violeta",
+		"tamaño": "chico"
+	},
+	{
+		"id": 5,
+		"fruta": "manzana",
+		"color": "verde",
+		"tamaño": "grande"
+	}
+]
